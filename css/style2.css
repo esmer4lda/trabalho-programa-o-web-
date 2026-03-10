@@ -1,0 +1,42 @@
+body{
+background-color: rgb(52, 52, 56);
+font-family: Arial;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+background-image: url(/img/banner.png );
+
+form{
+background-color: rgb(230, 200, 33);
+padding: 30px;
+border-radius: 10px;
+width: 300px;
+box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+}
+
+input{
+width: 100%;
+padding: 8px;
+margin-top: 5px;
+margin-bottom: 15px;
+border-radius: 5px;
+border: 1px solid #ccc;
+}
+
+button{
+width: 100%;
+padding: 10px;
+background-color: #4caf50;
+color: white;
+border: none;
+border-radius: 5px;
+cursor:pointer;
+}    
+
+button:hover{
+background-color: #45a049;
+}
+#logo{border: solid orange; background-color: orange;border-radius: 10px;}
+}
+
