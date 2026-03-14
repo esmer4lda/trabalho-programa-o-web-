@@ -1,0 +1,14 @@
+5 Heurísticas utilizadas no site:
+
+
+3ª heurística-Controle e liberdade para o usuário: no formulario(que aparece após o usuário clicar no link "contate-nos", possui o botão "menu principal" que serve como uma "saída de emergência" pois ao clicar nesse botão, o cliente sairá da aba do formulario e se redicionará ao menu principal do site. 
+
+4ª heurística-Consistência e Padronização: Ao longo do site, podemos notar uma padronização e consistencia entre as cores presentes, sendo usadas apenas três cores: laranja escuro, vermelho escuro e amarelo.
+
+6ª heurística- Reconhecimentos em vez de memorização: O usuário não deve precisar lembrar informações, pois contém simbolos de facil memorização como as imagens das pizzas.
+
+5ª heurística-Prevenção de erros: Em cada campo do formulario, possui um exemplo para evitar que o usuário erre ao colocar suas informações, como o campo do telefone que possui escrito: (85) 00000-0000.
+
+2ª heurística- compatibilidade entre o sistema e o mundo real: O site usa termos comuns que o usuário entende facilmente, como “Pizza de Calabresa” e "Pizza 4 queijos, enquanto no formulario possui informações como: “Telefone”, “Endereço” e “Sabor da Pizza”.
+
+
